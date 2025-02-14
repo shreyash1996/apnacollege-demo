@@ -4,7 +4,7 @@ Instructions
 2. download fonts and update the path in code
 3. run the code
 """
-
+print("Hellow I am ")
 from io import BytesIO
 from tkinter import *
 from random import *
